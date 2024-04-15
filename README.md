@@ -6,7 +6,7 @@ Este repositório contém trabalhos e exercícios que foram feitos durante o meu
 
 ## 📑 Estrutura do Repositório
 
-- [Algoritmos e Estrutura de Dados III](/Algoritmos_e_Estrutura_de_Dados_III/)
+- [Algoritmos e Estruturas de Dados III](/Algoritmos_e_Estruturas_de_Dados_III/)
 - [Arquitetura de Computadores II](/Arquitetura_de_Computadores_II/)
 - [Banco de Dados](/Banco_de_Dados/)
 - [Linguagens de Programacao](/Linguagens_de_Programacao/)
