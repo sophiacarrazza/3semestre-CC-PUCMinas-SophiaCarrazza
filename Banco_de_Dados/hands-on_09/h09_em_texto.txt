@@ -1,0 +1,55 @@
+Atores:
+
+- Blocagem (fator de bloco) = 11
+- Espaço desperdiçado = 112B
+- Blocos necessários = 910
+- Espaço total gasto = 1.77MB
+
+Clientes:
+
+- Blocagem (fator de bloco) = 5
+- Espaço desperdiçado = 48B
+- Blocos necessários = 20,000
+- Espaço total gasto = 40MB
+
+Filmes:
+
+- Blocagem (fator de bloco) = 8
+- Espaço desperdiçado = 0B
+- Blocos necessários = 250,000
+- Espaço total gasto = 500MB
+
+Funcionarios:
+
+- Blocagem (fator de bloco) = 11
+- Espaço desperdiçado = 46B
+- Blocos necessários = 319
+- Espaço total gasto = 628KB
+
+Mídias:
+
+- Blocagem (fator de bloco) = 28
+- Espaço desperdiçado = 32B
+- Blocos necessários = 358,143
+- Espaço total gasto = 697MB
+
+Alugueis:
+
+- Blocagem (fator de bloco) = 22
+- Espaço desperdiçado = 24B
+- Blocos necessários = 909,091
+- Espaço total gasto = 1.775MB
+
+Pagamentos:
+
+- Blocagem (fator de bloco) = 15
+- Espaço desperdiçado = 83B
+- Blocos necessários = 3,333,334
+- Espaço total gasto = 6.510MB
+
+AtoresEmFilmes:
+
+- Blocagem (fator de bloco) = 64
+- Espaço desperdiçado = 0B
+- Blocos necessários = 15,625
+- Espaço total gasto = 30.5MB
