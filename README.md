@@ -20,6 +20,7 @@ Livros e repositórios usados durante os estudos para este semestre.
 - [Conceitos de Linguagens de Programação](https://www.amazon.com.br/gp/product/8582604688/ref=ox_sc_saved_image_8?smid=A1ZZFT5FULY4LN&psc=1)
 - [Sistemas de Banco de Dados](https://www.amazon.com.br/gp/product/8543025001/ref=ox_sc_saved_title_9?smid=A1ZZFT5FULY4LN&psc=1)
 - [SQL - Guia Prático: um Guia Para o uso de SQL](https://www.amazon.com.br/dp/8575228315?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [Entendendo Algoritmos](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
 - [Construindo Chatbots com Python](https://www.amazon.com.br/dp/8575228099?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 ## 👨‍💻 Autora
