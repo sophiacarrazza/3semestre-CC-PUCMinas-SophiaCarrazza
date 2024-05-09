@@ -18,6 +18,7 @@ Este repositório contém trabalhos e exercícios que foram feitos durante o meu
 Livros e repositórios usados durante os estudos para este semestre.
 
 - [Conceitos de Linguagens de Programação](https://www.amazon.com.br/gp/product/8582604688/ref=ox_sc_saved_image_8?smid=A1ZZFT5FULY4LN&psc=1)
+- [Cálculo - James Stewart](https://a.co/d/iAWkoX7)
 - [Sistemas de Banco de Dados](https://www.amazon.com.br/gp/product/8543025001/ref=ox_sc_saved_title_9?smid=A1ZZFT5FULY4LN&psc=1)
 - [SQL - Guia Prático: um Guia Para o uso de SQL](https://www.amazon.com.br/dp/8575228315?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [Entendendo Algoritmos - Um Guia Ilustrado Para Programadores](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
