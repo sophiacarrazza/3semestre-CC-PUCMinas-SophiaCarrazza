@@ -1,0 +1,20 @@
+Pontos Positivos:
+
+Flexibilidade - A metodologia foi determinada em 6 etapas, o que permitiu uma adaptação e melhoria sempre que necessária durante o desenvolvimento​​.
+
+Estudo abrangente de Metodologias Ágeis - A primeira etapa desenvolveu um estudo das principais características dos projetos super ágeis, com um foco nas metodologias mais aceitas, como o Scrum e Kanban​​. A inclusão deste design de sprints mostrou uma preocupação importante em cobrir todas as fases do desenvolvimento, para entender melhor o contexto da pesquisa, desde a criação até a entrega do produto.
+
+Realização de uma pesquisa de campo - A segunda etapa introduziu uma aplicação de questionários e entrevistas feitas com empresas e startups, o que ajudou a alinhar a metologia às necessidades mais importantes e reais do mercado​​. Assim, esse recebimento de feedback dos profissionais que trabalham com o desenvolvimento ágil forneceu insights ótimos para a elaboração de uma pesquisa mais ajustada à prática.
+
+Adaptação baseada no feedback recebido - O processo foi sempre ajustado com base no feedback recebido das empresas, mostrando uma disposição para incorporar novas sugestões práticas e continuar melhorando.
+
+
+Pontos Negativos:
+
+Complexidade na avaliação - A avaliação desse tema é complexa, já que envolve a análise de especialistas e entrevistas extensas, o que pode ter sido demorado e custoso​​. Assim, com várias etapas de metodologia, a implementação se tornou mais lenta.
+
+Dependência de feedback externo - A forte dependência de feedback externo para ajustes e validações pode ser um risco se a resposta não for resgatada e armazenada de forma eficiente ou se os participantes não tiverem tempo ou interesse em contribuir com a pesquisa.
+
+Mudanças em metodologias conhecidas - A proposta de utilizar sprints de até 2 dias, diferente das sprints tradicionais de 2 a 4 semanas do Scrum, pode ser um desafio para equipes acostumadas com o Scrum tradicional, e essa mudança pode exigir um nível de esforço inatingível por muitas empresas.
+
+Dados obtidos de poucas fontes: O feedback foi resgatado somente de 3 empresas, o que pode não ter sido representativo o suficiente para garantir uma análise coerente com a realidade do processo em diferentes contextos e tipos de projetos.​
